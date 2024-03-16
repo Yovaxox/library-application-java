@@ -45,4 +45,6 @@ public class User {
     public void setRentedBooks(ArrayList<Book> rentedBooks) {
         this.rentedBooks = rentedBooks;
     }
+
+    // Methods
 }
