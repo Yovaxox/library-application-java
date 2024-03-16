@@ -1,4 +1,4 @@
-# Library application (Java, Python)
+# Library application (Java)
 
 TODO: Add description
 
