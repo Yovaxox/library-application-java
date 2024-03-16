@@ -40,5 +40,5 @@ Se desea crear un sistema para una librería, este sistema debe de contener 3 cl
 
 - Considerar que usuario puede rentar uno o muchos libros, pero un libro puede ser rentado solo por un usuario. ✅
 - Realizar el código en Java ✅ y en Python (ver el otro repo)
-- Subir el código JAVA a una rama llamada tarea8/unidad2/java (descartar en mi opción, ya que realizaré repositorios separados para cada lenguage.)
-- Subir el código PYTHON a una rama llamada tarea8/unidad2/python (descartar en mi opción, ya que realizaré repositorios separados para cada lenguage.)
+- Subir el código JAVA a una rama llamada tarea8/unidad2/java (descartar en mi opción, ya que realizaré repositorios separados para cada lenguaje.)
+- Subir el código PYTHON a una rama llamada tarea8/unidad2/python (descartar en mi opción, ya que realizaré repositorios separados para cada lenguaje.)
