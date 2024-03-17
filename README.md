@@ -4,6 +4,8 @@ This project simulates a library application through a terminal. This applicatio
 
 This project was built using **Java Scanner**.
 
+You might want to check Python version here: [Library Application Python](https://github.com/Yovaxox/library-application-python)
+
 ## Usage
 
 This program doesn't require an installation, just follow the following steps to execute the program:
